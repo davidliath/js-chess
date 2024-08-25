@@ -1,8 +1,7 @@
 #gameboard {
     width: 320px;
     height: 320px;
-    display: flex;
-    flex-wrap: wrap;
+    background-color: black;
 }
 
 .square {
